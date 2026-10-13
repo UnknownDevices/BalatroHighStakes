@@ -1,0 +1,13 @@
+{
+   "id": "highstakes",
+   "name": "High Stakes",
+   "display_name": "High Stakes",
+   "author": ["UnknownDevices"],
+   "description": "Four Stakes after Gold Stake, and one more Stake if played with All In Jest",
+   "prefix": "hst",
+   "main_file": "src/main.lua",
+   "priority": 0,
+   "badge_colour": "E86FA8",
+   "version": "0.1.0",
+   "dependencies": ["Steamodded (>=1.0.0~BETA-0404a)"]
+}

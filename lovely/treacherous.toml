@@ -1,0 +1,15 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = 0
+
+# Enfore Treacherous. Placed after All in
+# Jest's adjustments to required score.
+[[patches]]
+[patches.pattern]
+target = "functions/UI_definitions.lua"
+pattern = "local blind_state = G.GAME.round_resets.blind_states[type]"
+position = "before"
+payload = '''
+if G.jokers and HighStakes and HighStakes.treacherous_factor then blind_amt = blind_amt * HighStakes.treacherous_factor() end'''
+match_indent = true
