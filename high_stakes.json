@@ -9,5 +9,5 @@
    "priority": 0,
    "badge_colour": "E86FA8",
    "version": "0.1.0",
-   "dependencies": ["Steamodded (>=1.0.0~BETA-0404a)"]
+   "dependencies": ["Steamodded (>=26.1002.0)"]
 }

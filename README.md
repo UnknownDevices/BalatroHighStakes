@@ -29,7 +29,7 @@ In **Mods → High Stakes → Config**:
 
 ## Installation
 
-1. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Steamodded](https://github.com/Steamodded/smods) (1.0.0~BETA-0404a or newer), following their instructions
+1. Install [Lovely](https://github.com/ethangreen-dev/lovely-injector) and [Steamodded](https://github.com/Steamodded/smods) (v26.1002.0 or newer), following their instructions
 2. Download this mod from this Github page (**Code → Download ZIP**, or from Releases).
 3. Extract it into your Mods folder, so the folder holding `high_stakes.json` sits directly inside `Mods`:
    - **Windows:** `%AppData%\Balatro\Mods\Highstakes`
