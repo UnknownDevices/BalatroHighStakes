@@ -114,7 +114,7 @@ local linked = {
     key = "linked",
     atlas = "stickers",
     pos = { x = 2, y = 0 },
-    badge_colour = HEX('a868e7'),
+    badge_colour = HEX('68e3e7'),
     order = 4,
     sets = { Joker = true },
 

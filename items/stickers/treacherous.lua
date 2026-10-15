@@ -155,7 +155,7 @@ local treacherous = {
     key = "treacherous",
     atlas = "stickers",
     pos = { x = 3, y = 0 },
-    badge_colour = HEX('e77e68'),
+    badge_colour = HEX('e79268'),
     order = 3,
     sets = { Joker = true },
     requirement_rate = 0.2,

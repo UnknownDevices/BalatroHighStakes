@@ -228,7 +228,7 @@ local heavy = {
     key = "heavy",
     atlas = "stickers",
     pos = { x = 0, y = 0 },
-    badge_colour = HEX('68e3e7'),
+    badge_colour = HEX('a868e7'),
     order = 2,
     sets = { Joker = true },
 
